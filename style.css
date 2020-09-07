@@ -1,0 +1,56 @@
+h1{
+    color:black;
+    border:solid black;
+    background-color: cornsilk;
+    border-width:2px;
+
+
+}
+h2{
+    color:black;
+    border:solid black;
+    background-color: cornsilk;
+    border-width:2px;
+padding-left:700px
+}
+h3{
+    color:black;
+    background-color:cornsilk;
+
+
+}
+a:link{
+    color:whitesmoke;
+}
+a:visited{
+    color:black;
+}
+body{
+    background-image:url("4.jpeg");
+    background-size:1000px 1000px
+}
+
+.header{
+
+    background-image:"background.jpg";
+    
+}
+.menu{
+    
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.text{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+p{
+    color:whitesmoke ;
+    font-size:26px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
